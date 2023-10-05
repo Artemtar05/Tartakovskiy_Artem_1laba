@@ -1,3 +1,11 @@
+
 this my first laba (changed file in main)
 
 this is main branch
+
+this my first laba (changed in new branch)
+
+this is new branch
+
+resolved the conflict
+
