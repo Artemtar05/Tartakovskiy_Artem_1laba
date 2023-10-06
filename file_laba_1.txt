@@ -9,3 +9,4 @@ this is new branch
 
 resolved the conflict
 
+edit to using git pull (num 12 in lr)
